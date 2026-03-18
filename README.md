@@ -1,40 +1,36 @@
+# Hi, I'm Phat
+### Backend Developer
+
+> Passionate about building scalable systems & clean APIs.
 
 ---
-</br>
 
-
-## 🛠️ TECHNOLOGIES & TOOLS
+## Tech Stack
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Framework-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-WinUI 3-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ORM-EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28px" />
+
+  <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=.net&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" height="28px" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28px" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="28px" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="28px" />
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="28px" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="28px" />
 </p>
 
-### Language Usage
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phatdz2710&layout=compact&theme=radical" alt="GitHub Streak Stats" />
-</br> </br>
+---
 
-## 🌐 Live Demo
-
-<p align="center">
-  <a href="https://facebook.com">
-    <img src="https://api.microlink.io/?url=https://your-fatagram-url.com&screenshot=true&meta=false&embed=screenshot.url" />
-  </a>
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngocfat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocfat&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
-<p align="center">
-  👀 Click vào để stalk thử social media của tôi (đừng judge)
-</p>
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
-
