@@ -22,6 +22,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phatdz2710&layout=compact&theme=radical" alt="GitHub Streak Stats" />
 </br> </br>
 
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://facebook.com">
+    <img src="https://api.microlink.io/?url=https://your-fatagram-url.com&screenshot=true&meta=false&embed=screenshot.url" />
+  </a>
+</p>
+
+<p align="center">
+  👀 Click vào để stalk thử social media của tôi (đừng judge)
+</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
